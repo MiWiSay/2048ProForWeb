@@ -10,6 +10,9 @@
 [https://ai.studio/apps/drive/1ahUceebWnaq1ZUDqP-aSRnWXht2oL4eG](https://ai.studio/apps/drive/1ahUceebWnaq1ZUDqP-aSRnWXht2oL4eG)
 
 ---
+## 游戏链接：[https://miwisay.github.io/2048ProForWeb/](url)
+---
+---
 
 ### 本地运行（Run Locally）
 
@@ -246,5 +249,6 @@
     * 当前游戏模式（Theme）
     * 紧张程度（Tempo）
   * 动态生成旋律与音效
+
 
 ---
