@@ -10,7 +10,7 @@
 [https://ai.studio/apps/drive/1ahUceebWnaq1ZUDqP-aSRnWXht2oL4eG](https://ai.studio/apps/drive/1ahUceebWnaq1ZUDqP-aSRnWXht2oL4eG)
 
 ---
-## 游戏链接：[https://miwisay.github.io/2048ProForWeb/](url)
+## [游戏入口](https://miwisay.github.io/2048ProForWeb/)
 ---
 
 ### 本地运行（Run Locally）
@@ -251,4 +251,5 @@
 
 
 ---
+
 
